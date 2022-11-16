@@ -1,0 +1,23 @@
+.body {
+	font-family:courier,courier new,georgia,serif;
+	font-size:14px;
+	color:#333333;
+}
+
+A:link  {
+   color : #336600;
+   background : transparent;
+   text-decoration : none;
+}
+
+A:visited  {
+   color : #336600;
+   background : transparent;
+   text-decoration : none;
+}
+
+A:hover {
+	color : #66CC00;
+	background : transparent;
+	text-decoration : underline;
+}
